@@ -1,0 +1,9 @@
+*.lck
+*.tmp
+*.bak
+*.autosave
+*.zip
+Thumbs.db
+.vscode/
+.history/
+Desktop.ini

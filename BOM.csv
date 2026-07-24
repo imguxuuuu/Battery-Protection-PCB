@@ -1,0 +1,12 @@
+Reference,Quantity,Value,Footprint,Description
+BT1,1,18650 Holder,Battery Holder,Single Cell Holder
+F1,1,500mA PTC,1812 Resettable Fuse,Polyfuse
+D1,1,1N5819,SMA Schottky,Reverse Polarity Protection
+R1,1,330Ω,0805,LED Current Limiting
+R2,1,100kΩ,0805,Voltage Divider Upper
+R3,1,100kΩ,0805,Voltage Divider Lower
+C1,1,100nF,0805,ADC Filter Capacitor
+LED1,1,Green LED,0805,Power Indicator
+J1,1,2-Pin Terminal,Terminal Block,Power Output
+TP1,1,Test Point,1.5mm Pad,Battery ADC
+TP2,1,Test Point,1.5mm Pad,Ground Test
